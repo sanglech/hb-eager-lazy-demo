@@ -6,9 +6,10 @@ import org.hibernate.cfg.Configuration;
 import org.hibernate.query.Query;
 
 import com.christian.hibernate.demo.entity.Course;
-import com.christian.hibernate.demo.entity.Instructor;
-import com.christian.hibernate.demo.entity.InstructorDetail;
 import com.christian.hibernate.demo.entity.Student;
+
+import src.com.christian.hibernate.demo.entity.Instructor;
+import src.com.christian.hibernate.demo.entity.InstructorDetail;
 
 public class FetchJoinDemo {
 

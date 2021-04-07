@@ -1,4 +1,4 @@
-package com.christian.hibernate.demo.entity;
+package src.com.christian.hibernate.demo.entity;
 
 import java.util.ArrayList;
 import java.util.List;

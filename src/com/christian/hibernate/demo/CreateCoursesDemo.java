@@ -5,9 +5,10 @@ import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
 import com.christian.hibernate.demo.entity.Course;
-import com.christian.hibernate.demo.entity.Instructor;
-import com.christian.hibernate.demo.entity.InstructorDetail;
 import com.christian.hibernate.demo.entity.Student;
+
+import src.com.christian.hibernate.demo.entity.Instructor;
+import src.com.christian.hibernate.demo.entity.InstructorDetail;
 
 public class CreateCoursesDemo {
 
